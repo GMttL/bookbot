@@ -1,3 +1,10 @@
+/***
+* 
+*
+*
+* 
+***/
+
 def main():
 	file_path = "books/frankenstein.txt"
 	with open(file_path) as f:
